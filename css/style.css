@@ -338,18 +338,14 @@ html {
   .faq div h2{
     color: #fff;
     font-size: 40px;
+    font-weight: bold;
+   
   }
 
   .accordion-button:not(.collapsed) {
     color: #970FF2;
     box-shadow: 0 0 0 0.25rem #cc9aee;
   }
-
-  
-
-  
-  
-  
 
 
   /* rodapé */
