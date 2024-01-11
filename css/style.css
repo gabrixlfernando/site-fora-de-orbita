@@ -284,6 +284,7 @@ html {
 
   .missoes div div div h4{
     font-size: 30px;
+    text-align: center;
   }
 
   /* regras */
@@ -741,4 +742,12 @@ html {
   }
  }
 
+ @media (max-width: 450px){
+ .missoes div h3{
+  font-size: 20px;
+ } 
  
+ .missoes{
+  background-size: auto;
+ }
+}
