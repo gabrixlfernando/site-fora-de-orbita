@@ -499,7 +499,7 @@ html {
 #back-to-top {
   position: fixed;
   bottom: 20px;
-  right: 50px;
+  right: 20px;
   z-index: 10;
   border: none;
   border-radius: 50%;
