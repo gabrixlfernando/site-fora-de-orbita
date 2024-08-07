@@ -52,7 +52,7 @@ html {
     transition: transform 0.3s ease-in-out;
     justify-content: center;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.726);
-    height: 12%;
+    height: 25%;
   }
   
   .menu ul li a {
@@ -235,10 +235,10 @@ html {
 /* missoes */
 
   .missoes{
-    padding: 100px 0;
-    background: url(../img/alien\ planet-cuate.png) no-repeat center;
+  padding: 100px 0;
+  background: url(../img/alien\ planet-cuate.png) no-repeat center;
   background-attachment: scroll;
-  background-size: cover;
+  /*background-size: cover;*/
   background-position: center;
   min-height: 500px;
   }
